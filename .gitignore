@@ -1,9 +1,5 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-src/components/API_KEY.js
-# dependencies
+# Node Modules
 /node_modules
-/.pnp
-.pnp.js
 
 # testing
 /coverage
